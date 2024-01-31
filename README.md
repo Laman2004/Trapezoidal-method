@@ -1,2 +1,2 @@
-# Trapesl-r
+# Trapesler
 Parallel programming
